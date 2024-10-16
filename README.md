@@ -29,3 +29,15 @@ pip install Flask
 ```
 5- Create "server\main.py" file
 
+6- Enable CORS in server
+```
+pip install FLASK-CORS
+```
+
+## FETCH API
+- In the client, install axios
+```
+npm i axios
+```
+
+
