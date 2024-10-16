@@ -13,14 +13,19 @@ npx create-vite
 
 ## Create Back-end (Commands are proper to Windows environment)
 
-- Create a folder "server"
-- Run the following command to create a virtual environment entitled "venv"
+1- Create a folder "server"
+2- Run the following command to create a virtual environment entitled "venv"
 
 ```
 python -m venv venv
 ```
-- Activate environment by running the following command
+3- Activate environment by running the following command
 ```
 venv\Scripts\activate
 ```
+4- Install Flask dependency
+```
+pip install Flask
+```
+5- Create "server\main.py" file
 
