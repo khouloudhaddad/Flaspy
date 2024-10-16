@@ -19,4 +19,8 @@ npx create-vite
 ```
 python -m venv venv
 ```
+- Activate environment by running the following command
+```
+venv\Scripts\activate
+```
 
